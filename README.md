@@ -1,2 +1,2 @@
-## Prueba para enlazar un repositorio remoto con una loocal creado previamente.
+## Prueba para enlazar un repositorio remoto con una local creado previamente.
 #### Autor/a: Alejandro Rodrigo González
